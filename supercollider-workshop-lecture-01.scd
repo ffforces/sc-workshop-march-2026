@@ -69,17 +69,11 @@ Pulse.ar(lfo,lfo2,mul:0.1)!2}.play;
 // ugens/generators/deterministic
 // ugens/generators/stochastic
 
-
-//check the eli fieldsteel
-// first three tutorials
-// https://www.youtube.com/@elifieldsteel
-// https://www.youtube.com/watch?v=yRzsOOiJ_p4&list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC
-// https://www.youtube.com/watch?v=yRzsOOiJ_p4&list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC
-
-// https://www.youtube.com/watch?v=ntL8QDOhhL8&list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC&index=2
-
-
-
+//check first three supercollider tutorials from eli fieldsteel
+//https://www.youtube.com/@elifieldsteel
+//https://www.youtube.com/watch?v=yRzsOOiJ_p4&list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC
+//https://www.youtube.com/watch?v=ntL8QDOhhL8&list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC&index=2
+//https://www.youtube.com/watch?v=oTBcGPXH6K0&list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC&index=3 
 
 
 
