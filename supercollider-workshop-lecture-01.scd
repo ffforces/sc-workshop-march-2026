@@ -8,7 +8,7 @@
 
 
 //sclang
-//sc ide integrated developed environment
+//sc ide integrated development environment
 //scsynth
 
 // windows/linux evaluating is ctrl enter
@@ -65,7 +65,7 @@ Pulse.ar(lfo,lfo2,mul:0.1)!2}.play;
 // homework
 
 // maybe try three different oscillators
-// from the help brower:
+// from the help browser:
 // ugens/generators/deterministic
 // ugens/generators/stochastic
 
