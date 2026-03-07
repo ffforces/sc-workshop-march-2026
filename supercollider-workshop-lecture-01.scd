@@ -55,7 +55,7 @@ Pulse.ar(lfo,lfo2,mul:0.1)!2}.play;
 
 (
 {
-var lfo3 = LFTri.kr(0.4).range(0.2,100.0);
+var lfo3 = LFTri.kr(0.4).range(0.2,1.0);
 var lfo = LFTri.kr(lfo3).range(60,300);
 var lfo2 = LFTri.kr(0.3).range(0.0,1.0);
 Pulse.ar(lfo,lfo2,mul:0.1)!2}.play;
